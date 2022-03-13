@@ -10,7 +10,7 @@ public static void main (strng args[])
 	int c;
 	c=a+b;
 	System.out.pritln("The result is "+c);
-
+System.out.println("The result is "My name is prakash I am new to github");
 }
 }
 
